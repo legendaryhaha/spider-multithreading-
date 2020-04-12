@@ -1,0 +1,23 @@
+# Compiled class file
+*.class
+
+# Package file
+*.jar
+
+# Maven
+target
+
+
+# Idea
+.idea
+*.iml
+
+# Log
+log
+*.log
+
+# Mac
+.DS_Store
+
+report-file
+*.xlsx
